@@ -1,0 +1,23 @@
+[
+{
+    "serviceName": "loggerService",
+    "serviceVersion": {
+      "version": "1.0",
+      "contractVersion": "1",
+      "minSchemaVersion": 1,
+      "schemaVerison": 1,
+      "internalDNSName": "internal",
+      "internalServiceBasePath": "path",
+      "externalDNSName": "external",
+      "externalServiceBasePath": "externalPath",
+      "deploymentStage": "stage",
+      "status": 1,
+      "prodCommissionData": "2020-06-03T16:42:31.436Z",
+      "causeOfRetirement": "old",
+      "createdBy": "Admin",
+      "createdDateTime": "2020-06-03T16:42:31.436Z",
+      "modifiedBy": "Admin",
+      "modifiedDateTime": "2020-06-03T16:42:31.436Z"
+    }
+  }
+]
